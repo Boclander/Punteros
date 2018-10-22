@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1540220131 source:c:\users\alumno\desktop\punteros\punteros struct\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1540217618 source:c:\users\alumno\desktop\punteros\punteros struct\pasar valores y asignarlos con punteros.c
+	<stdio.h>
+	<stdlib.h>
+
