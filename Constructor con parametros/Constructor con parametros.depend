@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1540306795 source:c:\users\alumno\desktop\punteros\constructor con parametros\biblioteca.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Biblioteca.h"
+
+1540306761 c:\users\alumno\desktop\punteros\constructor con parametros\biblioteca.h
+
+1540306981 source:c:\users\alumno\desktop\punteros\constructor con parametros\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Biblioteca.h"
+
